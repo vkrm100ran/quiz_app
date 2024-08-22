@@ -24,6 +24,8 @@ class _HomeState extends State<Home> {
 
   ////////////////// ------------------------------- -  this is vkrm100ran -----
 
+  //------------------------------------------post testing
+
   String name = "ssfasd";
   String rank = "dasfas";
   String money = "-sf";
