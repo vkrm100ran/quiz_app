@@ -20,6 +20,9 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
    // GlobalKey<ScaffoldState> _drawerKey = GlobalKey();
 
+
+  ////////////////// ------------------------------- -  this is vkrm100ran -----
+
   String name = "ssfasd";
   String rank = "dasfas";
   String money = "-sf";
